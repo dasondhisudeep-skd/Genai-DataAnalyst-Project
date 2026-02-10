@@ -9,7 +9,9 @@ This interactive dashboard provides key business insights such as:
 
 ### Dashboard Screenshot:
 
-![Power BI Dashboard](powerbi/dashboard_preview.png)
+![Power BI Dashboard Preview](dashboard_preview.png)
+
+
 
 ### Power BI File:
 The complete interactive Power BI dashboard file is available in the `/powerbi` folder.
