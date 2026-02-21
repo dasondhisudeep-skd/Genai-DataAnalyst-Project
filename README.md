@@ -1,5 +1,6 @@
 
-GenAI + Data Analyst Project 1 (Final GitHub Ready)
+Testing Git Push
+GenAI + Data Analyst Project 1 (Final GitHub Ready) 
 --------------------------------------------------
 Project: AI-Powered Sales Data Analyzer
 
